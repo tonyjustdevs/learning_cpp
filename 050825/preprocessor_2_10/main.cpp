@@ -13,6 +13,4 @@ int get_code() {
 	std::cout << "Mates Code [og: " << MATE_CODE << "\n";
 #endif // MATE_CODE
 	return 0;
-}
-
-get_code();
+} 
