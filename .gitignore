@@ -2,3 +2,4 @@
 *.vcxproj*
 x64*
 .venv
+3rd-party
