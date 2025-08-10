@@ -18,7 +18,7 @@ void doSomething4(unsigned char x) { //0-255 -> -1 -> 255?
 }
 
 void doSomething5(unsigned char x) { 
-    std::cout << "x is " << x << '\n'; //note above 127, ascii no exist
+    std::cout << "x is " << x << '\n'; //note above 127, ascii no exist     
 }
 
 int main(){
