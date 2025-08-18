@@ -29,5 +29,7 @@ int main() {
 	std::getline(std::cin>>std::ws, name3);
 	std::cout << "You typed: " << name3 << "\n";
 	std::cout << "Expected Ok."<< "\n";
+
+	std::cout << name3 << " has " << name3.length() << " characters\n";
 	return 0;
 }
